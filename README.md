@@ -21,6 +21,13 @@ Este documento proporciona una guía paso a paso para configurar, compilar y eje
    npm install @capacitor/core @capacitor/cli
    npx cap init
 
+
+## Sincroniza y abre en Android Studio
+
+2. **Instalar Capacitor y Configurar el Proyecto**
+
+   Sincroniza y abre:
+
    ```bash
    npx cap sync
    ionic build
